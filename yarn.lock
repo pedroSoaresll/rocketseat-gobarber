@@ -25,6 +25,11 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
+"@pedro.oliveira/schedule-js@0.0.11":
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/@pedro.oliveira/schedule-js/-/schedule-js-0.0.11.tgz#96abaf9321b77366b3b1bbb4ce108780b1a03eee"
+  integrity sha512-yRmo8WK+s+jNWiZKJovskWzKnn2bFrHqZqyzsxWqteU5au3Wn/YYn9KP/Q4lmY9EhvI9g9udvYZyhLFB0wQL6w==
+
 "@types/node@*":
   version "12.11.1"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.11.1.tgz#1fd7b821f798b7fa29f667a1be8f3442bb8922a3"
